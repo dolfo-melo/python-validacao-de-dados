@@ -18,7 +18,7 @@
 1 - Faça um clone do repositório
     
 ```bash
-git clone
+git clone https://github.com/dolfo-melo/python-validacao-de-dados
 ```
 
 2 - Abra o seu editor de código e execute-o
